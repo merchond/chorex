@@ -11,16 +11,16 @@ lg='\33[32;1m' #lightgreen
 #akhir
 clear
 sleep 2
-echo $lg"×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×"
+echo $p"×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×"
 echo ""
 echo "AUTHOR : HansHaX colab MerchondChorex"
 echo "Contact: +6287850013150"
 echo "Thanks : HansHaX And Team And Chorex"
 echo ""
-echo $lg"×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×"
+echo $p"×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×"
 sleep 2
 #pilihan menu
-    echo $bi"Pilih Menu Dibawah ini"
+    echo $p"Pilih Menu Dibawah ini"
     echo ''
 sleep 1
       echo $p'1.] Lihat IP'
