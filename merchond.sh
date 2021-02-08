@@ -1,8 +1,8 @@
 #!system/bin/sh
-#Ingat Kalian Boleh Copy Semua Kode Ini, Hanya Untuk Belajar
-#lisensi sudah tertera
-#izin ke pembuat script jika ingin mengcopy kode
-#reupload tanpa izin? -saya akan temukan anda
+
+
+
+
 #selamat mencoba
 #MerchondChorex
 #Follow Me on Github
@@ -67,5 +67,5 @@ clear
 fi
 #akhir nomor 3
 #script selesai berjalan lancar
-#build by HansHaX
+#build by Merchond
 #no recode
