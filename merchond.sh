@@ -1,11 +1,7 @@
-#!system/bin/sh
-
-
-
-
+#system/bash/sh
 #selamat mencoba
-#MerchondChorex
-#Follow Me on Github
+#Merchond
+#Follow Me on Instagram
 
 #warna
 bi='\33[34;1m' #biru
@@ -17,9 +13,9 @@ clear
 sleep 2
 echo $lg"×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×"
 echo ""
-echo "AUTHOR : Merchond"
-echo "Contact: 08990867305"
-echo "Thanks : Merchond Chorex"
+echo "AUTHOR : HansHaX colab MerchondChorex"
+echo "Contact: +6287850013150"
+echo "Thanks : HansHaX And Team And Chorex"
 echo ""
 echo $lg"×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×"
 sleep 2
@@ -69,3 +65,74 @@ fi
 #script selesai berjalan lancar
 #build by Merchond
 #no recode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
