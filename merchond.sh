@@ -23,11 +23,11 @@ sleep 2
     echo $bi"Pilih Menu Dibawah ini"
     echo ''
 sleep 1
-      echo $pu'1.] Lihat IP'
+      echo $p'1.] Lihat IP'
 sleep 1
-      echo $pu'2.] Cek Kecepatan Internet'
+      echo $p'2.] Cek Kecepatan Internet'
 sleep 1
-      echo $pu'3.] Info Perangkat'
+      echo $p'3.] Info Perangkat'
 #memilih menu dengan read -p
 #1 cek ip
       read -p 'pilih:' p
